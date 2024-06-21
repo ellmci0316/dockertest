@@ -3,3 +3,6 @@ bin/
 
 # Ignore obj/ directory
 obj/
+
+# Ignore .vs
+.vs
